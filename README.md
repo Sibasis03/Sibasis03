@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sibasis03
 - 👀 I’m java devloper
-- 🌱 spring, spring boot, AWS 
-- 📫 sibasisgouda18@gmail.com
+- 🌱 spring, spring boot, AWS, Linux
+- 📫 sibasisgouda02@gmail.com
 
 
 <!---
