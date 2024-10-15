@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sibasis03
-- 👀 I’m java devloper
-- 🌱 spring, spring boot, AWS, Linux
+- 👀 Seeking a position on Cloud Technologies
+- 🌱 AWS, Jenkins, Linux, Bash, Java
 - 📫 sibasisgouda02@gmail.com
 
 
