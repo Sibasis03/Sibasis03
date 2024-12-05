@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sibasis03
+- 👋 Hi, I’m Sibasis Gouda
 - 👀 Seeking a position on Cloud Technologies
-- 🌱 AWS, Jenkins, Linux, Bash, Java
-- 📫 sibasisgouda02@gmail.com
+- 💪 AWS, Linux, Git, Jenkins, Ansible, Docker, Kubernetes, Bash shell, Java
+- ✉ sibasisgouda02@gmail.com 
 
 
 <!---
